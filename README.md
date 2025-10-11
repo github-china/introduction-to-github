@@ -7,6 +7,10 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+[English](https://github.com/skills/introduction-to-github) | 中文
+
+> 本课程翻译自 Github Skills，全部课程请点击 [这里查看](https://www.github-zh.com/getting-started)
+
 # GitHub 快速入门
 
 _我们将在不到一小时的时间内学习如何使用GitHub_
