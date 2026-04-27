@@ -1,12 +1,6 @@
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
-
-## 结束
+## 课程回顾
 
 _恭喜你顺利完成本课程，正式踏入开发者的世界！_
-
 
 <img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
@@ -28,10 +22,9 @@ _恭喜你顺利完成本课程，正式踏入开发者的世界！_
 4. 如果你在新分支中创建了这个文件，记得提交一个拉取请求并合并。
 5. 最后，欢迎你在 [课程讨论区](https://github.com/orgs/skills/discussions/categories/introduction-to-github) 分享一下你的学习体验！
 
-### 想继续深入了解？可以试试这些资源：
-
+想继续深入了解？可以试试这些资源：
 
 * 你是学生？看看 [GitHub 学生开发者工具包](https://education.github.com/pack)。
-* 继续学习其他 [GitHub 技能课程](https://github.com/skills)。
+* 继续学习其他 [GitHub 技能课程](https://learn.github.com/skills)。
 * 阅读 [GitHub 新手指南](https://docs.github.com/en/get-started)。
 * 想参与更多项目？去 [GitHub Explore](https://github.com/explore) 发现有趣的开源项目吧。

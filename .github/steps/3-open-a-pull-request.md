@@ -1,11 +1,3 @@
-<!--
-  <<< Author notes: Step 3 >>>
-  Just a historic note: the previous version of this step forced the learner
-  to write a pull request description,
-  checked that `main` was the receiving branch,
-  and that the file was named correctly.
--->
-
 ## Step 3: 发起 Pull Request（合并请求）
 
 _你已经完成提交，干得漂亮! :sparkles:_
@@ -20,29 +12,34 @@ _你已经完成提交，干得漂亮! :sparkles:_
 
 您可能已经注意到，提交完成后 GitHub 会在页面上方提示 “你刚刚推送了新提交”，并显示一个按钮 **Compare & pull request**。
 
-![screenshot of message and button](/images/compare-and-pull-request.png)
+![screenshot of message and button](../images/compare-pull-request-button.png)
 
 如果点击这个按钮，GitHub 会自动为你创建一个 Pull Request，跳过后续的大部分步骤（直接看第 6 步）。
 如果你想手动创建，请按下面步骤操作：
 
 1. 点击仓库顶部菜单栏里的 **Pull requests** 标签页。
 2. 点击 **New pull request**。
-3. 在 **base:** 下拉菜单中选择 **main**（表示目标分支）。
-4. 在 **compare:** 下拉菜单中选择你创建的分支 `my-first-branch`。
+3. 在下拉菜单中选择以下分支。
+   - **base:** `main` （表示目标分支）
+   - **compare:** `my-first-branch`
 
-   ![screenshot showing both branch selections](/images/pull-request-branches.png)
+   ![screenshot showing both branch selections](../images/branch-selection-comparison.png)
 
-5. 点击 **Create pull request**。
-6. 为你的 Pull Request 添加标题。默认标题是分支名，这里可以改成 `Add my first file`.
-7. 下面输入框中输入描述性的话，说明你做了那些修改
+4. 点击 **Create pull request**。
+5. 为你的 Pull Request 添加标题。默认标题是分支名，这里可以改成 `Add my first file`.
+6. 下面输入框中输入描述性的话，说明你做了那些修改
 
-   ![screenshot showing pull request](/images/Pull-request-description.png)
+   ![screenshot showing pull request](../images/create-pull-request-form.png)
 
-8. 点击 **Create pull request**。然后页面会自动跳转到你新建的拉取请求
-9. 等待大约20秒，然后刷新当前课程页面。[GitHub Actions](https://docs.github.com/en/actions) 会自动检测并进入下一步。
+7. 点击 **Create pull request**。然后页面会自动跳转到你新建的拉取请求
 
-> [!NOTE]
-> 当 Pull Request 创建后，你可能会看到一个 “GitHub Actions” 正在运行的提示。
-运行完成后，它可能会显示一行状态信息，例如下图所示：
-> 
-> ![screenshot of an example of an actions line](/images/Actions-to-step-4.png)
+8. 现在你已经创建了一个用于协作的 Pull Request，Mona 会自动开始检查你的任务。稍等片刻，她会在评论中回复进度与下一步任务。
+
+<details>
+<summary>遇到问题了吗？🤷</summary><br/>
+
+若未收到反馈，请检查以下事项：
+
+- 确保你的 Pull Request 标题是正确的。
+- 确保你的 Pull Request 已经填写了描述内容。
+</details>

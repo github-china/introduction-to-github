@@ -1,9 +1,3 @@
-<!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
--->
-
 ## Step 2: 提交文件（Commit a file）
 
 _你已经成功创建了一个分支! :tada:_
@@ -17,7 +11,7 @@ _你已经成功创建了一个分支! :tada:_
 
 下面会带你在 GitHub 上完成一次文件修改提交。
 
-“提交” 可以是对项目所做的任何修改，比如修改文件内容、新增文件、删除文件或重命名。
+“提交（commit）” 可以是对项目所做的任何修改，比如修改文件内容、新增文件、删除文件或重命名。
 本练习中，我们要先在你的分支上添加一个新文件，并将它提交到仓库中。
 
 
@@ -28,7 +22,7 @@ _你已经成功创建了一个分支! :tada:_
 
 2. 点击 **Add file** 下拉菜单，选择 **Create new file** 。
 
-   ![create new file option](/images/create-new-file.png)
+   <img width="300" alt="screenshot of the create new file option" src="../images/create-new-file-option.png">
 
 3. 在 **Name your file...** 输入框中填写文件名： `PROFILE.md`.
 
@@ -38,13 +32,23 @@ _你已经成功创建了一个分支! :tada:_
    Welcome to my GitHub profile!
    ```
 
-   ![profile.md file screenshot](/images/my-profile-file.png)
+   ![screenshot for adding the profile.md file](../images/add-profile-file.png)
 
 5. 在页面右上方，点击 **Commit changes...**。
 在弹出的提交界面中，你可以填写一条简短的信息来说明这次提交的内容。
 虽然 GitHub 会自动生成一条默认信息，但这次我们自己写一条，输入： `Add PROFILE.md`。
 
-   ![screenshot of adding a new file with a commit message](/images/commit-full-screen.png)
+   <img width="400" alt="screenshot of adding a new file with a commit message" src="../images/commit-message-dialog.png">
 
 6. 本节我们暂时不用关心其他选项，直接点击 **Commit changes**。
-7. 等待大约20秒，然后刷新当前课程页面。[GitHub Actions](https://docs.github.com/en/actions) 会自动检测并进入下一步。
+7. 现在你已经完成了文件的修改，Mona 会自动开始检查你的任务。稍等片刻，她会在评论中回复进度与下一步任务。
+
+
+<details>
+<summary>遇到问题? 🤷</summary><br/>
+
+若未收到反馈，请检查以下事项：
+- 确保你当前所在的分支是`my-first-branch`。
+- 确认 `PROFILE.md` 文件已经创建，并且位于项目的根目录下。
+
+</details>
