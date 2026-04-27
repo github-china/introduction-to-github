@@ -20,8 +20,8 @@ jobs:
     name: Start Exercise
     uses: skills/exercise-toolkit/.github/workflows/start-exercise.yml@v0.8.1
     with:
-      exercise-title: "Introduction to GitHub"
-      intro-message: "If you are new to GitHub, you might find your fellow developers use ___**issues**___  to organize their work and collaborate. We will do the same! That's another lesson, but today, we will introduce you to the basics."
+      exercise-title: "GitHub 入门介绍"
+      intro-message: "如果你是 GitHub 新手，你可能会发现其他开发者经常使用 ___**issues**___ 来组织工作、进行协作。我们之后也会用到这个功能，不过这部分我们会在另一节课里再学习。今天，我们先带你了解一些基础概念。"
 
   post_next_step_content:
     name: Post next step content
