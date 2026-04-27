@@ -1,3 +1,7 @@
+[English](https://github.com/skills/introduction-to-github) | 中文
+
+> 本课程翻译自 Github Skills，全部课程请点击 [这里查看](https://gitcn.org/getting-started)
+
 # GitHub 快速入门
 
 _我们将在不到一小时的时间内学习如何使用GitHub_
@@ -40,6 +44,7 @@ _我们将在不到一小时的时间内学习如何使用GitHub_
 - 如果页面显示作业失败，请提交 issue。太好了，你发现了一个 Bug！🐛
 
 </details>
+
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
